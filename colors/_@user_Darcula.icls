@@ -3,7 +3,7 @@
     <property name="created">2019-02-23T10:39:33</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-02-23T10:41:10</property>
+    <property name="modified">2021-02-02T20:47:37</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -17,11 +17,37 @@
     <option name="FILESTATUS_MODIFIED" value="39adb5" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="39adb5" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="39adb5" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="b0bec5" />
     <option name="FILESTATUS_SWITCHED" value="7c4dff" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="91b859" />
     <option name="FILESTATUS_modifiedOutside" value="6182b8" />
   </colors>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="3a3a2c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="313a31" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3a313a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2e3939" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="452828" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
